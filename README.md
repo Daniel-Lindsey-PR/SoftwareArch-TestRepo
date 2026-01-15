@@ -1,3 +1,3 @@
 # SoftwareArch-TestRepo
 
-Example commit.
+Changed commit.
